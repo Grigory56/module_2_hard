@@ -1,5 +1,3 @@
-from random import random
-
 for x in range(3,21):
     rezult = ''
     for  i in range(1,x):
